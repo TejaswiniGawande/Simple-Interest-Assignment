@@ -1,0 +1,26 @@
+body {background-color:black;
+    font-family:arial;
+    color:white;
+    align-content: center;
+    align-items: center;
+
+}
+
+.maindiv {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    width: 500px;
+    padding:20px;
+    
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-top: 170px;
+}
+ h1{
+    color:grey;
+    font-family:verdana;
+   
+}
+.maindiv div{
+    padding-left: 100px; 
+}
